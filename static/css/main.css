@@ -1,0 +1,22 @@
+     #logo{
+    }
+
+    body{
+        background-color:#ebeffs
+
+    }
+    #total-orders{
+        background-color:#7CD1CD
+    }
+    #orders-delivered{
+        background-color:#7abecc;
+    }
+    #order-pending{
+        background-color:#7CD1CD
+    }
+    .user{
+         height:35px;
+         width:126px;
+
+
+    }
